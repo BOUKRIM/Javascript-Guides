@@ -1,2 +1,2 @@
 # Javascript-Guides
-It's a bunch of Javascript guides
+It's a branch of Javascript guides
